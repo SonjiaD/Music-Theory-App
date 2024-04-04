@@ -1,0 +1,19 @@
+{
+  "keySignatures": [
+    {
+      "key": "C",
+      "type": "sharp",
+      "numSharpsOrFlats": 0
+    },
+    {
+      "key": "F",
+      "type": "flat",
+      "numSharpsOrFlats": 1
+    },
+    {
+      "key": "G",
+      "type": "sharp",
+      "numSharpsOrFlats": 1
+    }
+  ]
+}

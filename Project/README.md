@@ -1,4 +1,4 @@
-# Sonja's CPSC210 Personal Project
+# Sonja's Music Theory Personal Project
 
 ## *What will the application do?*
 #### Teaches the basics of music theory
@@ -24,10 +24,5 @@ In the context of a music theory learning app:
 - As a user, when I select the quit option from the application menu, I want to be reminded to save my searched key signature list to file and have the option to do so or not.
 - As a user, when I start the application, I want to be given the option to load my searched key signature list from file.
 
-# Instructions for Grader
-- You can generate the first required action related to the user story "by filtering to only add multiple sharp notes to the key signature”.
-- You can generate the second required action related to the user story "by filtering to only add multiple flat notes to the key signature”.
-- You can locate my visual component by pressing the show image button and looking at the middle of the GUI where there is an image of adding key notes to the key signature.
-- You can save the state of my application by “pressing the save button after adding the sharps or flats to the key signature”
-- You can reload the state of my application by “pressing the load button when the application starts to load in the previously typed out key signature notes”
+
 

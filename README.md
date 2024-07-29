@@ -1,4 +1,3 @@
-# CPSC-210-Project
-CPSC 210 Project
+# Music Theory App
 
 - Click into the Project folder to check out my project!

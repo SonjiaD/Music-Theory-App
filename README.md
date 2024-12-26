@@ -1,7 +1,7 @@
 # 🎶 Music Theory - Key Signature Learning App🎶
 
 ## 🎥 Video Showcase
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/VIDEO_ID)
+[![Watch the video]](https://youtu.be/VIDEO_ID)
 
 ## 🌟 What Will the Application Do?
 
